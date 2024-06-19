@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\productfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\productfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "NLayer.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:49:51.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductFeature.cs",
               "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\ProductFeature.cs",
               "RelativeDocumentMoniker": "NLayer.Core\\ProductFeature.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Product.cs",
               "RelativeDocumentMoniker": "NLayer.Core\\Product.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "NLayer.Core\\Product.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:26:11.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T13:26:11.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Category.cs",
               "RelativeDocumentMoniker": "NLayer.Core\\Category.cs",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "NLayer.Core\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:25:35.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T13:25:35.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\BaseEntity.cs",
               "RelativeDocumentMoniker": "NLayer.Core\\BaseEntity.cs",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "NLayer.Core\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T11:12:49.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T11:12:49.615Z"
             }
           ]
         }
