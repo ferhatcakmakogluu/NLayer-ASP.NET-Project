@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.api\\nlayer.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\nlayer.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NLayer.API",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\NLayer.API.csproj",
+              "RelativeDocumentMoniker": "NLayer.API\\NLayer.API.csproj",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\NLayer.API.csproj",
+              "RelativeToolTip": "NLayer.API\\NLayer.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T14:12:14.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
