@@ -14,3 +14,5 @@ C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Repository\obj\D
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.sourcelink.json
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
