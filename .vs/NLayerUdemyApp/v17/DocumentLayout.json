@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E100C43D-2B6D-4619-9A63-BCEC515BE927}|NLayer.Service\\NLayer.Service.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.service\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E100C43D-2B6D-4619-9A63-BCEC515BE927}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{230F277C-FA98-4330-9886-E3923178DDA3}|NLayer.Repository\\NLayer.Repository.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230F277C-FA98-4330-9886-E3923178DDA3}|NLayer.Repository\\NLayer.Repository.csproj|solutionrelative:nlayer.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\models\\productfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\models\\productfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\dtos\\productfeaturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\productfeaturedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Repository\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "NLayer.Repository\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Repository\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "NLayer.Repository\\Repositories\\GenericRepository.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwA4AAAApAAAA",
+              "DocumentIndex": 0,
+              "Title": "ProductUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\DTOs\\ProductUpdateDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\ProductUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\DTOs\\ProductUpdateDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\ProductUpdateDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T15:04:52.966Z",
+              "WhenOpened": "2024-06-25T15:27:44.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductFeature.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Models\\ProductFeature.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\ProductFeature.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Models\\ProductFeature.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\ProductFeature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:23:46.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductFeatureDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\DTOs\\ProductFeatureDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\ProductFeatureDto.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\DTOs\\ProductFeatureDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\ProductFeatureDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:23:35.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Models\\Category.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:23:11.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:23:01.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:21:54.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Services\\IService.cs",
-              "RelativeDocumentMoniker": "NLayer.Core\\Services\\IService.cs",
-              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Services\\IService.cs",
-              "RelativeToolTip": "NLayer.Core\\Services\\IService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAD4vxAAAAAcAAAA",
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\DTOs\\BaseDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\BaseDto.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\DTOs\\BaseDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\BaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T15:00:50.599Z",
+              "WhenOpened": "2024-06-25T15:21:47.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "NLayer.Core\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:21:09.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NLayer.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\Models\\Product.cs",
+              "RelativeToolTip": "NLayer.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:21:03.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Service\\Services\\Service.cs",
-              "RelativeDocumentMoniker": "NLayer.Service\\Services\\Service.cs",
-              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Service\\Services\\Service.cs",
-              "RelativeToolTip": "NLayer.Service\\Services\\Service.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAADwv0YAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T14:55:19.342Z",
-              "EditorCaption": ""
             }
           ]
         }
