@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.api\\controllers\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\controllers\\custombasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.core\\dtos\\nocontentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A2A4BF0-D64F-4910-8420-33B8A357C099}|NLayer.Core\\NLayer.Core.csproj|solutionrelative:nlayer.core\\dtos\\nocontentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +42,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\Program.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\Program.cs",
+              "RelativeToolTip": "NLayer.API\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAArwBQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:42:22.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\Controllers\\CustomBaseController.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Controllers\\CustomBaseController.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\Controllers\\CustomBaseController.cs",
+              "RelativeToolTip": "NLayer.API\\Controllers\\CustomBaseController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:24:43.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NLayer.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NLayer.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:19:16.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NoContentDto.cs",
               "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\DTOs\\NoContentDto.cs",
               "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\NoContentDto.cs",
@@ -43,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CustomResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Core\\DTOs\\CustomResponseDto.cs",
               "RelativeDocumentMoniker": "NLayer.Core\\DTOs\\CustomResponseDto.cs",
@@ -51,12 +102,11 @@
               "RelativeToolTip": "NLayer.Core\\DTOs\\CustomResponseDto.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAIwCQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:39:28.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T17:39:28.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MapProfile.cs",
               "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Service\\Mapping\\MapProfile.cs",
               "RelativeDocumentMoniker": "NLayer.Service\\Mapping\\MapProfile.cs",
@@ -64,8 +114,7 @@
               "RelativeToolTip": "NLayer.Service\\Mapping\\MapProfile.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T15:35:14.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T15:35:14.081Z"
             }
           ]
         }

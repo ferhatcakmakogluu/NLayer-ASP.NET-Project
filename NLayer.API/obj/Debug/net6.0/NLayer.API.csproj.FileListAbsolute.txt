@@ -5,6 +5,8 @@ C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\ne
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.runtimeconfig.json
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\NLayer.API.pdb
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -72,5 +74,3 @@ C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\ne
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.pdb
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\NLayer.API.genruntimeconfig.cache
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\net6.0\ref\NLayer.API.dll
-C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\AutoMapper.dll
-C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
