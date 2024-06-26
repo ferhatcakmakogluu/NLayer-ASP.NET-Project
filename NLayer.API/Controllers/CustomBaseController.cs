@@ -9,7 +9,7 @@ namespace NLayer.API.Controllers
     public class CustomBaseController : ControllerBase
     {
         [NonAction]
-        public IActionResult CreteActionResult<T>(CustomResponseDto<T> response)
+        public IActionResult CreateActionResult<T>(CustomResponseDto<T> response)
         {
             if(response.StatusCode == 204)
             {

@@ -12,11 +12,20 @@ namespace NLayer.API.Controllers
     {
         private readonly IMapper _mapper;
         private readonly IService<Product> _service;
+        private readonly IProductService _productService;
 
-        public ProductsController(IMapper mapper, IService<Product> service)
+        public ProductsController(IMapper mapper, IService<Product> service, IProductService productService)
         {
             _mapper = mapper;
             _service = service;
+            _productService = productService;
+        }
+
+        //[HttpGet("[action]")] --> alternatif
+        [HttpGet("GetProductsWithCategory")]
+        public async Task<IActionResult> GetProductsWithCategory()
+        {
+            return CreateActionResult(await _productService.GetProductsWithCategory());
         }
 
         [HttpGet]
@@ -24,7 +33,7 @@ namespace NLayer.API.Controllers
         {
             var products = await _service.GetAllAsync();
             var productDto = _mapper.Map<List<ProductDto>>(products.ToList());
-            return CreteActionResult(CustomResponseDto<List<ProductDto>>.Success(200, productDto));
+            return CreateActionResult(CustomResponseDto<List<ProductDto>>.Success(200, productDto));
         }
 
         [HttpGet("{id}")]
@@ -32,7 +41,7 @@ namespace NLayer.API.Controllers
         {
             var product = await _service.GetByIdAsync(id);
             var productsDto = _mapper.Map<ProductDto>(product);
-            return CreteActionResult(CustomResponseDto<ProductDto>.Success(200, productsDto));
+            return CreateActionResult(CustomResponseDto<ProductDto>.Success(200, productsDto));
         }
 
         [HttpPost]
@@ -40,14 +49,14 @@ namespace NLayer.API.Controllers
         {
             var product = await _service.AddAsync(_mapper.Map<Product>(productDto));
             var productsDto = _mapper.Map<ProductDto>(product);
-            return CreteActionResult(CustomResponseDto<ProductDto>.Success(201, productsDto));
+            return CreateActionResult(CustomResponseDto<ProductDto>.Success(201, productsDto));
         }
 
         [HttpPut]
         public async Task<IActionResult> Update(ProductUpdateDto productDto)
         {
             await _service.UpdateAsync(_mapper.Map<Product>(productDto));
-            return CreteActionResult(CustomResponseDto<NoContentDto>.Success(204));
+            return CreateActionResult(CustomResponseDto<NoContentDto>.Success(204));
         }
 
         [HttpDelete("{id}")]
@@ -55,7 +64,7 @@ namespace NLayer.API.Controllers
         {
             var product = await _service.GetByIdAsync(id);
             await _service.RemoveAsync(product);
-            return CreteActionResult(CustomResponseDto<NoContentDto>.Success(204));
+            return CreateActionResult(CustomResponseDto<NoContentDto>.Success(204));
         }
     }
 }
