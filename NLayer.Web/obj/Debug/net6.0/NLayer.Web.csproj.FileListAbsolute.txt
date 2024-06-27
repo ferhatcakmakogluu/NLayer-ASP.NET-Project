@@ -70,3 +70,7 @@ C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\ne
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.pdb
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.genruntimeconfig.cache
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\ref\NLayer.Web.dll
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cs
