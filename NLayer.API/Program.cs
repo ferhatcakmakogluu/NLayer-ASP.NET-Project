@@ -64,7 +64,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 //Kendi yazdigimiz middleware i kullanmak icin
-app.UserCustomException();
+app.UseCustomException();
 
 app.UseAuthorization();
 

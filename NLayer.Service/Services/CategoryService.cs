@@ -4,6 +4,7 @@ using NLayer.Core.Models;
 using NLayer.Core.Repositories;
 using NLayer.Core.Services;
 using NLayer.Core.UnitOfWorks;
+using NLayer.Service.Exceptions;
 
 namespace NLayer.Service.Services
 {
@@ -20,6 +21,10 @@ namespace NLayer.Service.Services
         public async Task<CustomResponseDto<CategoryWithProductsDto>> GetSingleCategoryByIdWithProductAsync(int categoryId)
         {
             var category = await _categoryRepository.GetSingleCategoryByIdWithProductAsync(categoryId);
+            if(category == null)
+            {
+                throw new NotFoundException($"{typeof(Category).Name} ({categoryId}) not Found!");
+            }
             var categoryDto = _mapper.Map<CategoryWithProductsDto>(category);
             return CustomResponseDto<CategoryWithProductsDto>.Success(200, categoryDto);
         }
