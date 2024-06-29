@@ -26,6 +26,9 @@ builder.Services.Configure<ApiBehaviorOptions>(options =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//Caching ekleme
+builder.Services.AddMemoryCache();
+
 //NotFoundFilteri tanýmladýk
 builder.Services.AddScoped(typeof(NotFoundFilter<>));
 

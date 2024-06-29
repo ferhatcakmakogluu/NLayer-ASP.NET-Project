@@ -8,6 +8,9 @@ C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\ne
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Web.pdb
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -50,6 +53,7 @@ C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\ne
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.AssemblyInfoInputs.cache
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.AssemblyInfo.cs
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.RazorAssemblyInfo.cache
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.RazorAssemblyInfo.cs
@@ -70,7 +74,3 @@ C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\ne
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.pdb
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.genruntimeconfig.cache
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\ref\NLayer.Web.dll
-C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.dll
-C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
-C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
-C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\obj\Debug\net6.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cs
