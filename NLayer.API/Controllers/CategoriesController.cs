@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using NLayer.API.Filters;
+using NLayer.Core.Models;
 using NLayer.Core.Services;
 
 namespace NLayer.API.Controllers
@@ -15,6 +17,7 @@ namespace NLayer.API.Controllers
 
 
         //api/categories/GetSingleCategoryByIdWithProductAsync/5
+    [ServiceFilter(typeof(NotFoundFilter<Category>))]
         [HttpGet("[action]/{categoryId}")]
         public async Task<IActionResult> GetSingleCategoryByIdWithProductAsync(int categoryId)
         {
