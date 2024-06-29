@@ -77,3 +77,5 @@ C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\obj\Debug\ne
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
