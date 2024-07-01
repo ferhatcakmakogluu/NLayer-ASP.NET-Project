@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BDEF25A2-235A-4DCD-BFB7-0D8D3BABE472}|NLayer.Caching\\NLayer.Caching.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.caching\\productservicewithcaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDEF25A2-235A-4DCD-BFB7-0D8D3BABE472}|NLayer.Caching\\NLayer.Caching.csproj|solutionrelative:nlayer.caching\\productservicewithcaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E100C43D-2B6D-4619-9A63-BCEC515BE927}|NLayer.Service\\NLayer.Service.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.service\\services\\productservicewithnocaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E100C43D-2B6D-4619-9A63-BCEC515BE927}|NLayer.Service\\NLayer.Service.csproj|solutionrelative:nlayer.service\\services\\productservicewithnocaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.api\\modules\\reposervicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\modules\\reposervicemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,63 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 211,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RepoServiceModule.cs",
-              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\Modules\\RepoServiceModule.cs",
-              "RelativeDocumentMoniker": "NLayer.API\\Modules\\RepoServiceModule.cs",
-              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\Modules\\RepoServiceModule.cs",
-              "RelativeToolTip": "NLayer.API\\Modules\\RepoServiceModule.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwCwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T12:02:16.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductServiceWithNoCaching.cs",
-              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Service\\Services\\ProductServiceWithNoCaching.cs",
-              "RelativeDocumentMoniker": "NLayer.Service\\Services\\ProductServiceWithNoCaching.cs",
-              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Service\\Services\\ProductServiceWithNoCaching.cs",
-              "RelativeToolTip": "NLayer.Service\\Services\\ProductServiceWithNoCaching.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T12:01:56.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\Program.cs",
-              "RelativeDocumentMoniker": "NLayer.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\Program.cs",
-              "RelativeToolTip": "NLayer.API\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T11:17:37.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductServiceWithCaching.cs",
-              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Caching\\ProductServiceWithCaching.cs",
-              "RelativeDocumentMoniker": "NLayer.Caching\\ProductServiceWithCaching.cs",
-              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Caching\\ProductServiceWithCaching.cs",
-              "RelativeToolTip": "NLayer.Caching\\ProductServiceWithCaching.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAgwEAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T11:10:03.763Z",
-              "EditorCaption": ""
             }
           ]
         }
