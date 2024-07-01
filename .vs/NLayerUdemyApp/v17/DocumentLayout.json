@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{412A0853-D34F-43B8-8003-D32F7BB8F434}|NLayer.Web\\NLayer.Web.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{412A0853-D34F-43B8-8003-D32F7BB8F434}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A0853-D34F-43B8-8003-D32F7BB8F434}|NLayer.Web\\NLayer.Web.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{412A0853-D34F-43B8-8003-D32F7BB8F434}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 211,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NLayer.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NLayer.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T15:18:21.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Web\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "NLayer.Web\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Web\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "NLayer.Web\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T15:17:51.922Z",
+              "EditorCaption": ""
             }
           ]
         }

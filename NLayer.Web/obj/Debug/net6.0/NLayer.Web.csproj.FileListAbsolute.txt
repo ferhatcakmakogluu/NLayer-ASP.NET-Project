@@ -6,6 +6,8 @@ C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\ne
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Web.runtimeconfig.json
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Web.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\NLayer.Web.pdb
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\Autofac.dll
+C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Ferhat Çakmakoğlu\source\repos\NLayerUdemyApp\NLayer.Web\bin\Debug\net6.0\FluentValidation.dll
