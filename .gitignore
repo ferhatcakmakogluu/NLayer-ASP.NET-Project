@@ -1,3 +1,6 @@
+NLayer.Core/obj/
+NLayer.Service/obj/
+NLayer.Web/obj/
 .vs/
 <<<<<<< HEAD
 =======
