@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{412A0853-D34F-43B8-8003-D32F7BB8F434}|NLayer.Web\\NLayer.Web.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A0853-D34F-43B8-8003-D32F7BB8F434}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C2A6016-ABA4-4B3A-8A7E-8CA5B49EC9A3}|NLayer.API\\NLayer.API.csproj|solutionrelative:nlayer.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{412A0853-D34F-43B8-8003-D32F7BB8F434}|NLayer.Web\\NLayer.Web.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.web\\services\\categoryapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{412A0853-D34F-43B8-8003-D32F7BB8F434}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\services\\categoryapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A0853-D34F-43B8-8003-D32F7BB8F434}|NLayer.Web\\NLayer.Web.csproj|c:\\users\\ferhat \u00E7akmako\u011Flu\\source\\repos\\nlayerudemyapp\\nlayer.web\\services\\productapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A0853-D34F-43B8-8003-D32F7BB8F434}|NLayer.Web\\NLayer.Web.csproj|solutionrelative:nlayer.web\\services\\productapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 211,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NLayer.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NLayer.Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:31:25.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Web\\Services\\ProductApiService.cs",
+              "RelativeDocumentMoniker": "NLayer.Web\\Services\\ProductApiService.cs",
+              "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Web\\Services\\ProductApiService.cs",
+              "RelativeToolTip": "NLayer.Web\\Services\\ProductApiService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:22:37.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CategoryApiService.cs",
               "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Web\\Services\\CategoryApiService.cs",
               "RelativeDocumentMoniker": "NLayer.Web\\Services\\CategoryApiService.cs",
               "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.Web\\Services\\CategoryApiService.cs",
               "RelativeToolTip": "NLayer.Web\\Services\\CategoryApiService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T17:18:30.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "NLayer.API\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\Ferhat \u00C7akmako\u011Flu\\source\\repos\\NLayerUdemyApp\\NLayer.API\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "NLayer.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAnwA0AAAApAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwBsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T17:14:44.04Z",
               "EditorCaption": ""
